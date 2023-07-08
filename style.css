@@ -1,0 +1,28 @@
+body {
+    background-color: #8A2BE2; /* Purple background */
+  }
+  .logo {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: white; /* White text color */
+  }
+  .form-container {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: white; /* White background for form */
+    padding: 20px;
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow effect */
+  }
+  .form-container .form-group {
+    margin-bottom: 20px;
+  }
+  .btn-login {
+    display: flex;
+    justify-content: center; /* Center align button horizontally */
+  }
+  .btn-create {
+    display: flex;
+    justify-content: center; /* Center align button horizontally */
+  }
